@@ -1,0 +1,9 @@
+.editor {
+    padding: 50px;
+    background-color: aqua;
+    flex-basis: 50%;
+}
+
+.editor > h1 {
+    padding-bottom: 30px;
+}

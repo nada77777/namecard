@@ -1,0 +1,10 @@
+.preview {
+    /* background-color: pink; */
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    flex-basis: 50%;
+}
+
+.preview > h1 {
+    padding-bottom: 30px;
+}

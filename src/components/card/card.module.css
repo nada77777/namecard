@@ -1,0 +1,29 @@
+.card {
+    border: 3px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 20px;
+    height: 150px;
+    border-radius: 7px;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    border: 1px solid skyblue;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+.cardInfo {
+    width: 70%;
+    border: 0.5px solid aqua;
+}
+
+.cardInfo > p {
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
