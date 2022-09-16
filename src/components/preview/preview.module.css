@@ -8,3 +8,8 @@
 .preview > h1 {
     padding-bottom: 30px;
 }
+
+.previewCards {
+    height: 92%;
+    overflow-y: scroll;
+}
